@@ -12,11 +12,13 @@ body{
 button{
   background-color: var(--tg-theme-button-color);
 }
-
+.title{
+  margin: 10px 0 10px 65px;
+}
 .video{
   background-color: black;
   border-radius: 5px;
   margin: 10px 0 0 35px;
   width: 350px;
-  height: 280px;
+  height: 260px;
 }
