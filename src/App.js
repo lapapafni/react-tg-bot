@@ -8,16 +8,12 @@ function App() {
     tg.ready()
   })
 
-  const onClose = () => {
-    tg.close()
-  }
-
 
   return (
     <div className="App">
-      Все работает
-
-      <button onClick={onClose}>Закрыть</button>
+      <div className='video'>
+s
+      </div>
     </div>
   );
 }
